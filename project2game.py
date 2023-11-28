@@ -9,7 +9,7 @@ import datetime
 import random
 from typing import *
 from items_npc import Item, NPC
-from locations import Location
+from locations_zork import Location
 
 
 class Game:
