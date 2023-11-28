@@ -1,6 +1,6 @@
 """Class to hold the data and methods of the location class.
 
-Author: Kyle Maitner
+Author: Kyle Maitner and Alec Mirambeau
 Date: 02/14/2023"""
 
 from typing import *
